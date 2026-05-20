@@ -6,9 +6,11 @@ Neural Network Projekt/[Bb]uilds/
 Neural Network Projekt/[Uu]ser[Ss]ettings/
 Neural Network Projekt/[Ll]ogs/
 Neural Network Projekt/[Mm]emoryCaptures/
+Neural Network Projekt/[Pp]rofilerCaptures/
+Neural Network Projekt/[Vv]env/
 
 # Never ignore Asset meta data
-!/[Aa]ssets/**/*.meta
+Neural Network Projekt/!/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
